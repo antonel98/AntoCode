@@ -1,0 +1,189 @@
+.logo {
+    background-color: #112232;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+#menu {
+   background-color: #273f59;
+   padding-top: 10px;
+}
+
+.menu1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: text-bottom;
+    height: 100%;
+}
+
+.arancione {
+    background-color: #ff751a;
+    color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    margin: 1%;
+    margin-top: 1%;
+    height: 5%;
+}
+
+.regalini {
+    background-image:url(bg-image.png) ;
+    height: 150px;
+    width: 98%;
+    margin: 1%;
+    margin-top: 20px;
+}
+
+.text {
+    color: white;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.foto {
+   display: flex;
+
+}
+
+.tablet {
+    width: 25%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px lightgrey;
+}
+
+.computer {
+    width: 25%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px lightgrey;
+
+}
+
+.orologio {
+    width: 25%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px lightgrey;
+
+}
+
+.cani {
+    width: 25%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 50px;
+    box-shadow: 10px 10px 5px lightgrey;
+
+}
+
+.text2 {
+  padding-left: 20px;
+}
+
+.shop {
+color: rgb(15, 110, 154);
+padding-left: 20px;
+font-size: 15px;
+}
+
+.visore {
+    display: flex;
+}
+
+.vis {
+    height: 400px;
+    width: 100%;
+    margin: 5px;
+    padding: 3px;
+}
+
+
+
+.text3 {
+    text-align: center; 
+
+}
+
+.game {
+    color: rgb(15, 110, 154);
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+.occhiali {
+    display: flex;
+}
+
+.occhi {
+    height: 400px;
+    width: 100%;
+    margin: 5px;
+    padding: 3px;
+}
+
+.audio {
+    color: rgb(15, 110, 154);
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.text4 {
+    text-align: center;
+}
+
+.back {
+    background-color: #273f59;
+    padding-top: 10px; 
+}
+
+.text5 {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    text-align: center;
+    vertical-align: text-bottom;
+    height: 30px;
+}
+
+.endlogo {
+    background-color: #112232;
+    padding-top: 80px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.centro {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
